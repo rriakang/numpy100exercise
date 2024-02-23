@@ -12,3 +12,8 @@ You need to know how to create and handle arrays, and you can use the Nupi libra
 
 ## I use this site
 reference site : https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+
+
+## practice method 
+
+my plan : i will practice 10 question every days
