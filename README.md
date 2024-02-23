@@ -16,4 +16,4 @@ reference site : https://www.machinelearningplus.com/python/101-numpy-exercises-
 
 ## practice method 
 
-my plan : i will practice 10 question every days
+my plan : I will practice 10 question every days
