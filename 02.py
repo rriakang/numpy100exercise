@@ -136,3 +136,5 @@ print(rand_arr)
 
 # 균등 분포 정보를 생성하여 array에 만들기 -> np.random.uniform
 # 정규분포 - np.random.normal
+
+#https://www.machinelearningplus.com/python/101-numpy-exercises-python/
