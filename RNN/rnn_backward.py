@@ -22,7 +22,7 @@ class RNN :
         dWh = np.matmul(h_prev.T,dt)
         dh_prev = np.matmul(dt,Wh.T)
         dWx = np.matmul(x.T,dt)
-        dx = np.matnul(dt.Wx.T)
+        dx = np.matmul(dt.Wx.T)
         
         self.grads[0][...] = dWx
         self.grads[1][...] = dWh
