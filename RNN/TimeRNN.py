@@ -1,4 +1,4 @@
-import numpy as np
+
 import numpy as np
 class RNN :
     def __init__(self,Wx,Wh,b):
